@@ -1,2 +1,3 @@
-# data-science-6
-decision tree
+# Liteshwar Rao
+# Assignment on Decision tree
+# classifying a person either as risky or good on the basis of income, work experience, city population
